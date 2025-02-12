@@ -215,6 +215,7 @@ function searchData(value) {
         }
     }
     document.getElementById("tbody").innerHTML = table;
+    */
 }
 
 
