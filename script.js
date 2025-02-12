@@ -9,7 +9,8 @@ let category =document.getElementById("category");
 let submit =document.getElementById("submit");
 let mood = "creat";
 let tmp;//great global function
-
+//kkkkkkkkkk
+//abokhalel
 // upgdshvdjgs
 //get total
 function gettotal(){
