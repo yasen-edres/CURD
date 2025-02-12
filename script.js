@@ -1,4 +1,4 @@
-/*
+
 let title =document.getElementById("title");
 let price =document.getElementById("price");
 let taxes =document.getElementById("taxes");
@@ -10,7 +10,7 @@ let category =document.getElementById("category");
 let submit =document.getElementById("submit");
 let mood = "creat";
 let tmp;//great global function
-//abokhalel
+
 
 //get total
 function gettotal(){
@@ -215,7 +215,7 @@ function searchData(value) {
         }
     }
     document.getElementById("tbody").innerHTML = table;
-    */
+    
 }
 
 
