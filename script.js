@@ -10,7 +10,7 @@ let submit =document.getElementById("submit");
 let mood = "creat";
 let tmp;//great global function
 
-
+// upgdshvdjgs
 //get total
 function gettotal(){
     if(price.value!=""){
